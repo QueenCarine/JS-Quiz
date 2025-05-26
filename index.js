@@ -74,7 +74,6 @@ class CustomerOrder {
 // ### Output
 // - Task status as a string
 // - Progress status as a string
-// 6:29
 class TeamMember{
     constructor(name,role,tasks){
         this.name = name;
